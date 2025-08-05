@@ -1,11 +1,11 @@
 import React from 'react';
 import {
   Card,
-  CardAction,
+  // CardAction,
   CardContent,
-  CardDescription,
+  // CardDescription,
   CardFooter,
-  CardHeader,
+  // CardHeader,
   CardTitle,
 } from "@/components/ui/card";
 import Image from 'next/image';
